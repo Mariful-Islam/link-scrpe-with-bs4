@@ -1,0 +1,112 @@
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '11-32102983-0 0NNN RT(1613816708983 81) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=6cc+yyUNS/WP+zKC9gXg6oXjMGAAAAAAQUIPAAAAAAAo6reHDbp8Z3nFqRw7LLpN; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=/J+rZgPVkw0lj+ZanV5kDYXjMGAAAAAA/rIhN76h0HL5Sr7Z4ECZTQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '4-21936919-0 0NNN RT(1613816709728 89) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=epD1vM5ZSYW+An4mEjvKWoXjMGAAAAAAQUIPAAAAAAAD1tBZkqAMxjd2hOdvV+uS; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=P9iWcE1neSUukeZanV5kDYXjMGAAAAAAvFEbiuwXxjEMEA2/j6cuyA==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '9-12446423-0 0NNN RT(1613816710399 81) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=LD+FtiBBQiio9/oEwGRcDIbjMGAAAAAAQUIPAAAAAADqvIHZozkE1hSdjn0EDpDh; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=gFL9EJ6M7GzqkuZanV5kDYbjMGAAAAAAoVL7LocWIyOuXkXmni2EQQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '12-40911037-0 0NNN RT(1613816711074 93) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=euEMUKqcS3+NKK0ZVBecvYfjMGAAAAAAQUIPAAAAAAAK4e17n86sDxT3mj1Nlb1q; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=owmbAWaTxX2UlOZanV5kDYfjMGAAAAAAZIF7LvtMWKFHHkCRppmb9w==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '13-52650464-0 0NNN RT(1613816711748 94) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=0VdCcIpARzGCSo5m/pS+yIfjMGAAAAAAQUIPAAAAAACQHv5PWxN98WCiqUDhSRfg; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=a1IVHB1sDCd4luZanV5kDYfjMGAAAAAAKTz8lG9GtiIz4cgkYKbvAA==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '11-32103426-0 0NNN RT(1613816712438 99) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=WKhsDmMDR++E6+vbR7EMkojjMGAAAAAAQUIPAAAAAADYKzHjvWf02D9RP22F1UyV; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=AWylNnodX1k8mOZanV5kDYjjMGAAAAAA0BXayDwNJi1GJwcP/URipQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '11-32103543-0 0NNN RT(1613816713116 89) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=eUAnQ4azTGeoFithMyVc2YnjMGAAAAAAQUIPAAAAAACababcd6sGYXuwH2vUl3n/; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=+QrwGENBGRsCmuZanV5kDYnjMGAAAAAAP4Biw6p5fWcsnoolvK+Sdw==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '13-52650774-0 0NNN RT(1613816713792 84) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=9PKVXPLZQ3yHUNraWsnHeYnjMGAAAAAAQUIPAAAAAAA/fFSzRy/dibPSsCFt0bIB; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=7YdyYI4nhWbEm+ZanV5kDYnjMGAAAAAA/cQY7U5RD/OHAiPBKdhiZQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '14-69257956-0 0NNN RT(1613816714460 84) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=/14jdAY2QyW3xf3gBAANb4rjMGAAAAAAQUIPAAAAAABKKiMq6h1IiptVTBI3lnkh; expires=Sat, 19 Feb 2022 10:45:05 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=jlquTvtVM07YneZanV5kDYrjMGAAAAAAa+WQXKUMLTXcgIWFxZ5J3A==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '11-32103878-0 0NNN RT(1613816715112 93) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=3P8nPaSwSqi7MAx+jlDwhovjMGAAAAAAQUIPAAAAAADMZwJLdPT4nuXw0DL3xclK; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=tT4SaJEfDCKSn+ZanV5kDYvjMGAAAAAAyBsqk27g8WzG/CwYCP6+zQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '12-40911994-0 0NNN RT(1613816715769 83) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=NDxF49nHSIiUFNkCko+YmovjMGAAAAAAQUIPAAAAAAA6Apolr7Hx3aKGZCfef9lx; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=7chqCqKM+HNnoeZanV5kDYvjMGAAAAAAdOENuMB7FFRB1xAO9IJgyg==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '14-69258544-0 0NNN RT(1613816716427 92) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=f9Ct0ubYQn25iQb6g/ssg4zjMGAAAAAAQUIPAAAAAADZa9N9zuYxbZMGYd+eEm36; expires=Sat, 19 Feb 2022 10:45:05 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=edu1OmuRMAouo+ZanV5kDYzjMGAAAAAAoJXUJRvnTNndihMojyQSfQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '12-40912173-0 0NNN RT(1613816717079 93) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=WPt3JXaMQN6zhWPGgM3Mko3jMGAAAAAAQUIPAAAAAACBilKKfAGVXhU0u8rFyCdx; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=drZIQyl3UWLUpOZanV5kDY3jMGAAAAAALwhiEvrnRrGgjRfcDlRRDQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '11-32104337-0 0NNN RT(1613816717732 86) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=3/q4Z37ITiar9zMtPjK58o3jMGAAAAAAQUIPAAAAAAAwi16HsG2RolvK4rKDr1zp; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=FvpkbMZmRzmhpuZanV5kDY3jMGAAAAAASznIWkSIbnBl/ACsONiOYA==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '13-52651812-0 0NNN RT(1613816718388 92) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=HepHW0u8Rh2oHPzBpFucno7jMGAAAAAAQUIPAAAAAAA7cEZuqQqkZQl9Dnod6bPR; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=i4lCSKRBp0PkqOZanV5kDY7jMGAAAAAA6vIzWVzadgDb471AjmpUvg==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '10-17555143-0 0NNN RT(1613816719070 84) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=hm9uW++HThS0RyKEiEO/VI/jMGAAAAAAQUIPAAAAAADf2/tN9pw2Tsl9N+0mp6wS; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=XKBzRPh2mHj1quZanV5kDY/jMGAAAAAASE+vCwqZ1WJBcZjw/pXcaA==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '14-69259540-0 0NNN RT(1613816719725 84) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=BIRTzROIRwmYPF6xcNDHgI/jMGAAAAAAQUIPAAAAAAAbcn9ML9M02/inlYJGMWm3; expires=Sat, 19 Feb 2022 10:45:05 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=5dNFSgvYpCEdreZanV5kDY/jMGAAAAAAuMIWWP0v9Fu5J37yC2J7qQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '5-32682982-0 0NNN RT(1613816720397 89) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=+0KH0PPPTsKKWywdPm3uk5DjMGAAAAAAQUIPAAAAAABhtan1JXD+t6XNJ+DYenmG; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=a8obTRDODShcr+ZanV5kDZDjMGAAAAAArRlxtyF/7gTt7Y6OYqVfCQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '9-12447014-0 0NNN RT(1613816721066 130) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=6da4p1NWRBqQX1phrwwuhpHjMGAAAAAAQUIPAAAAAAAV9qJL5PO6Uoc5PP06g0WI; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=fXH5RwKgZBOjseZanV5kDZHjMGAAAAAA7Rdh8eVo45hT8OZlIOGqsg==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '11-32105205-0 0NNN RT(1613816721782 86) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=30HaqMtGTeKWofrfWqFx3pHjMGAAAAAAQUIPAAAAAACl44h3/pgvrbYYf5r1W9Qx; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=X/5DT0y6XnyFs+ZanV5kDZHjMGAAAAAAgh/ybRAOMUcRIwKcfDPfrw==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '11-32105329-0 0NNN RT(1613816722448 90) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=uHd7zfmIQTyFymx+JeDmjJLjMGAAAAAAQUIPAAAAAADJc4/L+jwQqc/ZwmaqOlWy; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=H6RxMB1BGRtRteZanV5kDZLjMGAAAAAAuImIMPqouBiW4H/DCVB1ww==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '5-32683283-0 0NNN RT(1613816723110 91) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=j+Jcczb6Q5SKrxFRDGFXd5PjMGAAAAAAQUIPAAAAAABvr2VntFSAG2VtOwfAVHGH; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=FwOeEMMa0xE7t+ZanV5kDZPjMGAAAAAAJ77Zdi0L0BS/9TnUKui5pg==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '7-18828973-0 0NNN RT(1613816723805 97) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=vCOfLpkMTaSDyYXqViI+9JPjMGAAAAAAQUIPAAAAAAAPuSkqDh89Q7Jw432U68Ya; expires=Sat, 19 Feb 2022 10:45:13 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=jxKOKoUTN1czueZanV5kDZPjMGAAAAAAljDbfmuw06kV5WYxYXySoQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '14-69260865-0 0NNN RT(1613816724485 87) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=+94zkswuQ++WqIZ+SCenOpTjMGAAAAAAQUIPAAAAAACC+yKnbVh6zqIgDImLqxS5; expires=Sat, 19 Feb 2022 10:45:05 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=jen4HhZLnkQbu+ZanV5kDZTjMGAAAAAAS5j0wgeWcXxsakZxOVZk0A==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '14-69261085-0 0NNN RT(1613816725157 93) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=GxOvlTM9RpCncBCCsyjk5JXjMGAAAAAAQUIPAAAAAABvN7m1ChNA4j2FieVa4cVw; expires=Sat, 19 Feb 2022 10:45:05 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=7xIlFPpKdA0hveZanV5kDZXjMGAAAAAAFZ2xcxg+ov60FWCBWkdIVQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '14-69261262-0 0NNN RT(1613816725839 88) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=R92iQTFyRL2k9KDw5OmYVpXjMGAAAAAAQUIPAAAAAABmQeUsFWSz9XVyVydoyMUY; expires=Sat, 19 Feb 2022 10:45:05 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=fvriZJUSzSwBv+ZanV5kDZXjMGAAAAAAkoeGgJ/s+TF8JyFcxgcwAQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '14-69261461-0 0NNN RT(1613816726501 88) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=em+l2Kv0TFW4zM8e2p9+LJbjMGAAAAAAQUIPAAAAAADnkWnyLXRH1I6272S1CQgj; expires=Sat, 19 Feb 2022 10:45:05 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=Gbn5T2dmCRYDweZanV5kDZbjMGAAAAAABsNOLi+HwWWnumTTQVscBQ==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
+Response code: 403 
+Url: https://et.interac.ca/sh/9c5dcc53cf8
+ Head Request: {'Cache-Control': 'no-cache, no-store', 'Content-Type': 'text/html', 'Connection': 'close', 'Content-Length': '122', 'X-Iinfo': '14-69261625-0 0NNN RT(1613816727158 85) q(0 -1 -1 -1) r(0 -1) B13(3,901868,0) U6', 'Set-Cookie': 'visid_incap_949440=xas/q5SMRuyWptX2jZZvO5fjMGAAAAAAQUIPAAAAAAA+PJQH/nkDpTVt7X3rDMNI; expires=Sat, 19 Feb 2022 10:45:05 GMT; HttpOnly; path=/; Domain=.interac.ca, incap_ses_965_949440=HXdTTqGC/kEsw+ZanV5kDZfjMGAAAAAAbBi1D7+CgBsTW04ej/20fw==; path=/; Domain=.interac.ca', 'Location': 'https://et.interac.ca/sh/9c5dcc53cf8%0A'}
+
